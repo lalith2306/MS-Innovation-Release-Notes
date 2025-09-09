@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor instructions updates with few screenshots were updated.   
+Minor instructions and screenshots were updated.   
 
 ### Infrastructure Changes
 
