@@ -49,9 +49,6 @@ N/A
 ---
 </details>
 
- <details>
-  <summary>2025-07-24</summary>
-
 <details>
   <summary>2025-06-13</summary>
 
