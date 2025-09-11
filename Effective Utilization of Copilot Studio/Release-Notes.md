@@ -46,7 +46,7 @@ N/A
 
 ### Testing Scope 
 
- Conducted end-to-end lab testing with validation successful, updated the lab guide with the latest UI changes in Microsoft Copilot Studio 
+ Conducted end-to-end lab testing with validation successful. Added licenses to support the lab testing, updated the lab guide with the latest UI changes in Microsoft Copilot Studio 
 
 ---
 </details>
